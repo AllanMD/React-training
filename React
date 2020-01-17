@@ -1,0 +1,6 @@
+#REACT
+React es una librería de JavaScript declarativa, eficiente y flexible para construir interfaces de usuario. Permite componer IUs complejas de pequeñas y aisladas piezas de código llamadas “componentes”.
+
+-JSX
+React no separa el maquetado y la logica en archivos separados, une ambas en "componentes".
+React utiliza una sintaxis parecida a HTML, llamada JSX. No es necesaria para utilizar React, sin embargo, hace el código más legible, y escribirlo es una experiencia similar a HTML. 
